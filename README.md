@@ -1,4 +1,4 @@
-# CDOnline | Professional Portfolio 
+# CvOnline | Professional Portfolio 
 
 A modern, high-performance professional portfolio built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. Designed to showcase software engineering projects and technical skills to a global audience.
 
