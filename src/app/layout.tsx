@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: " 💻 CDOnline",
+  title: " 💻 CVOnline",
   description: "Software Engineer & Frontend Developer Portfolio",
 };
 

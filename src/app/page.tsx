@@ -20,7 +20,7 @@ export default function Home() {
           {/* Quick Stats / Info */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-20">
             <div className="p-6 rounded-2xl bg-slate-900/50 border border-slate-800 hover:border-blue-500/50 transition-colors">
-              <h3 className="text-2xl font-bold text-blue-500">25+</h3>
+              <h3 className="text-2xl font-bold text-blue-500">26+</h3>
               <p className="text-sm text-slate-400">Technical Certifications </p>
             </div>
             <div className="p-6 rounded-2xl bg-slate-900/50 border border-slate-800 hover:border-blue-500/50 transition-colors">
